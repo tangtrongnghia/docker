@@ -1,4 +1,5 @@
-create follder ./src
-command: docker-composer up
+create follder ./src <br />
+
+command: docker-compose up <br />
 
 okiela
